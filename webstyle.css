@@ -1,0 +1,138 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #a8a661;
+  font-family: 'Arial', sans-serif;
+  font-size: 20px;
+  color: #2259a2;
+}
+
+header {
+  background-color: #38c8ba;
+  color: #fff;
+  padding: 15px;
+  text-align: center;
+  font-size: xxx-large; /* Check this value, xxx-large might not be supported everywhere */
+}
+
+header.st-emotion-cache-hn3urv {
+  font-family: cursive;
+  margin-bottom: -1rem;
+}
+
+.st-emotion-cache-1p40hor {
+  position: absolute;
+  background: #e5f5f0;
+  color: #16279a;
+  inset: 0;
+  color-scheme: light;
+  overflow: hidden;
+}
+
+h1 {
+  font-family: "Source Serif Pro", serif;
+  font-weight: 700;
+  color: #16279a;
+  padding: 1.25rem 0;
+  margin: 0;
+  line-height: 1.2;
+  font-size: xx-small; /* Check this value, xx-small might be too small for h1 */
+}
+
+h3 {
+  font-family: sans-serif;
+  font-weight: 600;
+  color: #205a55;
+  letter-spacing: -0.005em;
+  padding: 0.5rem 0;
+  margin: 0;
+  line-height: 1.2;
+  font-size: calc(1.3rem + .6vw);
+}
+
+table {
+  caption-side: bottom;
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 1rem;
+  color: #3e1fde;
+  text-align: left; /* Moved from a duplicate entry */
+}
+
+table.st-emotion-cache-a51556 {
+  border-bottom: 5px solid rgb(22, 49, 202); /* Changed border-bottom color */
+  border-right: 5px solid rgb(20, 45, 185); /* Changed border-right color */
+  vertical-align: middle;
+  padding: 0.25rem 0.375rem;
+  font-weight: 400;
+  color: rgb(197 16 16);
+}
+
+table.st-emotion-cache-165ax5l {
+  width: 100%;
+  margin-bottom: 1rem;
+  color: rgb(213, 16, 19);
+  border-collapse: collapse;
+  border: 5px solid rgba(33, 175, 185, 0.824); /* Changed border color */
+}
+
+th, td {
+  border: 3px solid #3e9192;
+  padding: 0.25rem 0.375rem;
+  text-align: left;
+}
+
+a2.metrics.color{
+   rgb(255, 75, 75);
+   font-size: x-large;
+}
+
+.st-emotion-cache-1wivap2 {
+  overflow-wrap: normal;
+  text-overflow: ellipsis;
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  font-family: "Source Sans Pro", sans-serif;
+  line-height: normal;
+  vertical-align: middle;
+}
+
+*, ::before, ::after {
+  box-sizing: border-box;
+}
+user agent stylesheet
+div {
+  display: block;
+}
+style attribute {
+  color: rgb(210, 38, 16);
+}
+
+.st-emotion-cache-wnm74r {
+  font-size: x-large;
+  display: flex;
+  flex-direction: row;
+  -webkit-box-align: center;
+  align-items: center;
+  font-weight: 400;
+}
+
+
+.st-emotion-cache-1r4qj8v {
+    position: absolute;
+    background: rgb(255, 255, 255);
+    color: #3e1fde;
+    inset: 0px;
+    color-scheme: light;
+    overflow: hidden;
+}
+
+  
+footer {
+  background-color: #39c8ba;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  font-size: 16px;
+}
